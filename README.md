@@ -1,4 +1,4 @@
-# Consulta-agregacao-quantidade-produtos
+# Consulta-agregação-quantidade-produtos
 
 Neste Exemplo foi criado uma consulta ao banco de dados para mostrar os OrderID com quantidades acima de 20 produtos.
 
